@@ -1,3 +1,29 @@
+#
+###############################################################################
+#                                                                             #
+#							 Copyright (c)									  #
+#                         All rights reserved.                                #
+#                                                                             #
+###############################################################################
+#
+#  Filename:     3d_cube_plot.py
+#
+###############################################################################
+#  Description:
+#  Plot 3D cubes with matplotlib
+#  Reference 1, https://matplotlib.org/3.1.1/gallery/mplot3d/voxels.html
+#  Reference 2, https://matplotlib.org/3.1.0/gallery/mplot3d/voxels_rgb.html
+###############################################################################
+# History
+################################################################################
+# File:		   3d_cube_plot.py
+# Version:     1.0.0
+# Author/Date: Junseok Oh / 2019-08-21
+# Change:      new
+# Cause:       an application test
+# Initiator:   M.Sc Raoul Schönhof 
+################################################################################
+
 import matplotlib.pyplot as plt
 import numpy as np
 # This import registers the 3D projection, but is otherwise unused.
